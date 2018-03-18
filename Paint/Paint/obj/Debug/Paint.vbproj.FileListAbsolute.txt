@@ -1,0 +1,12 @@
+C:\Users\Dertii\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Dertii\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Dertii\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Dertii\Desktop\Paint\Paint\bin\Debug\Paint.xml
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.Resources.resources
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.vbproj.GenerateResource.Cache
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.xml
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.Form2.resources
+C:\Users\Dertii\Desktop\Paint\Paint\obj\Debug\Paint.Form3.resources
